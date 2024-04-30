@@ -1,6 +1,7 @@
 suporte
 atendimento
 vendas
+sales
 marketing
 controladoria
 ouvidoria
@@ -49,3 +50,4 @@ dpo
 imprensa
 press
 relacionamento
+comercial
