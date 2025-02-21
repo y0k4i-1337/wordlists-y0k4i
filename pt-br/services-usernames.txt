@@ -35,6 +35,10 @@ it
 it.support
 jira
 juridico
+licenca
+licencas
+license
+licenses
 manager
 managers
 marketing
