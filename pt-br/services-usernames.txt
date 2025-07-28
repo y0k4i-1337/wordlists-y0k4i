@@ -4,6 +4,8 @@ alertas
 alerts
 api
 apoio
+app
+apppool
 architecture
 arquitetura
 atendimento
@@ -56,6 +58,7 @@ do-not-reply
 docker
 dpo
 duvidas
+exchange
 expedicao
 facilities
 faturamento
@@ -66,12 +69,14 @@ gerencia
 gerente
 gerentes
 git
+gitlab
 google
 grafana
 grc
 hr
 human.resources
 humanresources
+iis
 imprensa
 infra
 infraestrutura
@@ -99,6 +104,7 @@ microsoft
 mkt
 monitor
 monitoramento
+mssql
 nagios
 nao-responda
 nao-responder
@@ -150,7 +156,10 @@ sharepoint
 sistemas
 smtp
 soc
+spadmin
+spfarm
 sql
+sqlsvc
 squad
 sre
 sso
@@ -173,7 +182,10 @@ token
 ux
 vagas
 vault
+veeam
+veeambackup
 vendas
+web
 webmaster
 wellcome
 workspace

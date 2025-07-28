@@ -1,3 +1,4 @@
+-adm
 -auto
 -bot
 -cloud
@@ -11,6 +12,7 @@
 -test
 -teste
 -time
+.adm
 .auto
 .bot
 .cloud
